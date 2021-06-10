@@ -1,0 +1,13 @@
+body {
+    background-image: url(pexels-cats-coming-707582.jpg);
+    background-size: cover;
+}
+.container {
+    box-shadow: 5px 8px whitesmoke ;
+}
+img {
+    position: absolute;
+    left: 430px;
+    top: 50px;
+
+}
